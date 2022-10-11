@@ -4,4 +4,4 @@ Uncomplicated Firewall is a program for managing a netfilter firewall designed t
 
 Resources used for this project:
 - [What is a firewall](https://www.youtube.com/watch?v=2uQ2BSzDvXs)
-- [UFW]https://help.ubuntu.com/community/UFW
+- [UFW](https://help.ubuntu.com/community/UFW)
