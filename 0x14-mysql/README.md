@@ -18,3 +18,5 @@ Read or watch:
 - [MySQL primary replica setup](https://www.youtube.com/watch?v=Jtej8uBCGyA)
 - [Build a robust database backup strategy](https://www.youtube.com/watch?v=2XUQ2gdCxz4)
 - [Setting up MySQL on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+- [Install MySQL 5.7 On Ubuntu](https://www.vultr.com/docs/how-to-install-mysql-5-7-on-ubuntu-20-04/)
+- [MySQL primary replica setup](https://www.interserver.net/tips/kb/create-master-slave-replication-mysql-server/)
