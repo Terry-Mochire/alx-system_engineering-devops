@@ -9,3 +9,4 @@ Your web infrastructure is already serving web pages via Nginx that you installe
 * [Running Gunicorn](http://docs.gunicorn.org/en/stable/run.html)
 * [Be careful with the way Flask manages slash](http://werkzeug.pocoo.org/docs/0.14/routing/)
 * [Upstart documentation](http://upstart.ubuntu.com/cookbook/)
+* [How to set up Nginx to proxy to Gunicorn](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-18-04#step-7-creating-systemd-socket-and-service-files-for-gunicorn)
